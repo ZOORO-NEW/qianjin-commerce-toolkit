@@ -1,4 +1,7 @@
 ---
+slug: qianjin-commerce-toolkit
+displayName: 商业运营工具箱
+summary: "整合营销与电商运营实战方法论：覆盖商业战略/电商运营/品牌管理/活动策划/社交裂变/大健康/内容媒体/数据分析八大领域，含完整框架、模型与执行模板。"
 name: commerce-strategy-toolkit
 category: 商业运营
 platforms: [workbuddy, claude-code, cursor, windsurf, codex]
