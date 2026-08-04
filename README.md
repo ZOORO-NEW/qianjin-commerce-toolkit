@@ -1,70 +1,64 @@
-# Qianjin Commerce Toolkit | 前进商业策略工具集
+# Commerce Strategy Toolkit
 
-> Integrated practical methodologies for marketing & e-commerce operations + PPT generation + data modeling & reporting. Refined from 15 years of hands-on experience, covering 8 core domains with complete frameworks, models, and actionable templates.
-> 整合营销与电商运营实战方法论 + PPT方案生成 + 数据建模分析。15 年一线实战提炼，覆盖 8 大领域，含完整框架、模型与执行模板，可一键生成商业PPT方案和数据分析报表。
+> 整合营销与电商运营实战方法论。15 年一线实战提炼，覆盖 8 大领域，含完整框架、模型与执行模板。
 
-## Quick Start | 快速开始
+## 快速开始
 
-1. Copy SKILL.md to your AI skills directory:
-   - WorkBuddy: `~/.workbuddy/skills/qianjin-commerce-toolkit/SKILL.md`
-   - Claude Code / Cursor: Corresponding skills directory
+1. 将 `SKILL.md` 拷贝到你的 AI 技能目录：
+   - WorkBuddy：`~/.workbuddy/skills/commerce-strategy-toolkit/SKILL.md`
+   - Claude Code / Cursor：对应 skills 目录
 
-2. Ask your business question directly:
+2. 对话中直接提问，自动匹配方法论：
    ```
-   "帮我分析一下毛利结构怎么优化？" (Business consulting)
-   "帮我做一个电商运营方案的PPT" (PPT generation)
-   "分析这个Excel数据，出个经营分析报告" (Data analysis & reporting)
+   "帮我分析一下电商平台的毛利结构，怎么优化？"
+   "我想做一个健康食品品牌，给我一个品牌体系方案"
+   "要策划一场新品发布会，帮我出个统筹方案"
    ```
 
-## 核心能力 | Core Capabilities
+## 覆盖领域
 
-| 能力 Capability | 说明 Description |
-|------|---------|
-| 🧠 **八大领域方法论** | 商业战略/电商运营/品牌管理/活动策划/社交裂变/大健康/内容媒体/数据分析 |
-| 📊 **PPT方案生成** | 基于方法论直接生成商业PPT（商业计划书/品牌策略/运营方案等），.pptx可编辑 |
-| 📈 **数据分析报表** | Excel模型（含公式/GMV拆解/财务预测）+ 分析报告（.xlsx/.docx） |
-| 🔒 **安全机制** | 输入校验、路径防护、命令注入防护、输出文件格式验证、数据脱敏 |
-| 🔄 **自我进化** | 反思机制、迭代记录、反馈闭环，持续修正方法论 |
+| 领域 | 核心方法论 | 等级 |
+|------|-----------|------|
+| 商业规划与战略 | 四段式 BP 框架、跨境战略 12 模块、年度战略转型路径、战略咨询框架（波特/BCG/安索夫/蓝海/7S/OKR/TAM-SAM-SOM/画布/情景/商业论证）、PPT 写作标准 | 资深 |
+| 电商运营管理 | 四维驱动模型、前中后端体系、产品五层矩阵 | 资深 |
+| 品牌管理与建设 | 四大管理体系、资产五阶段模型、多品牌矩阵 | 资深 |
+| 活动策划执行 | 六大模块统筹法、全年活动矩阵、政府级活动模型 | 资深 |
+| 大健康行业 | 14 大类 875 SKU 五年规划、产品解决方案矩阵 | 资深 |
+| 社交裂变增长 | 六大裂变工具矩阵、社群三驾马车 | 熟练 |
+| 内容与媒体 | 七栏目体系、四维媒体矩阵、自媒体多平台运营体系（一鱼多吃/标题公式/公众号自动化/内容日历/复盘） | 资深 |
+| 数据分析与组织 | 四维分析框架、六级组织架构、商业数据仪表盘整合（达成率安全计算/新鲜度/异常/质量评分/JSON/ETL） | 资深 |
 
-## 覆盖领域 | Covered Domains
+## 常用思维工具
 
-| 领域 Domain | 等级 Level |
-|------|------|
-| 商业规划与战略 Business Planning & Strategy | 资深 Senior |
-| 电商运营管理 E-commerce Operations Management | 资深 Senior |
-| 品牌管理与建设 Brand Management & Development | 资深 Senior |
-| 活动策划执行 Campaign Planning & Execution | 资深 Senior |
-| 大健康行业 Health & Wellness Industry | 资深 Senior |
-| 社交裂变增长 Social Viral Growth | 熟练 Proficient |
-| 内容与媒体 Content & Media | 熟练 Proficient |
-| 数据分析与组织 Data Analysis & Organization | 熟练 Proficient |
+AARRR · 人货场 · 4P · SWOT · 定位理论 · AISAS · S2B2C · K 型分化 · 五层产品矩阵 · 四维驱动模型 · 六大模块统筹法 · 三驾马车模型 · 波特五力 · TAM/SAM/SOM · 商业模式画布 · 安索夫 · BCG · 蓝海 · 麦肯锡7S · OKR · 情景规划 · 商业论证 · 金字塔原理 · 一鱼多吃 · 数据仪表盘
 
-## 常用思维工具 | Common Thinking Tools
+## 适用场景
 
-AARRR · 人货场 · 4P · SWOT · 定位理论 · AISAS · S2B2C · K型分化 · 五层产品矩阵 · 四维驱动模型 · 六大模块统筹法 · 三驾马车模型
+- 商业计划书撰写：需要完整的 BP 框架和财务模型
+- 电商平台运营：GMV 增长、毛利优化、用户留存策略
+- 品牌体系建设：从 0 到 1 搭品牌，或多品牌矩阵升级
+- 大型活动策划：发布会、展会、招商会全流程管控
+- 大健康品类规划：SKU 矩阵、产品解决方案设计
+- 社交电商裂变：工具矩阵设计、社群运营策略
 
-## 适用场景 | Use Cases
+## FAQ
 
-| 场景 | 对话示例 |
-|------|---------|
-| 商业计划书 | "帮我写一份融资BP" → 生成 PPT |
-| 电商运营方案 | "给我做个Q3运营方案PPT" → 生成 PPT |
-| 品牌体系搭建 | "从0到1做个品牌策略方案" → 生成 PPT |
-| 经营数据分析 | "帮我分析上月销售数据，出个报告" → Excel + 报告 |
-| GMV拆解 | "做个GMV拆解模型，预算分渠道" → Excel模型 |
-| 竞争分析 | "帮我做个性价比竞品分析" → Excel + 图表 |
+**Q：这个 skill 和通用的 AI 回答有什么区别？**
+A：不是泛泛而谈，每个方法论都来自亿级 GMV 的真实商业操盘，给出的是可执行的框架和模型。
 
-## 技能结构 | Skill Structure
+**Q：适合什么人用？**
+A：电商运营、品牌经理、创业者、商业顾问。需要实战方法论而非教科书理论的人。
 
-```
-qianjin-commerce-toolkit/
-├── SKILL.md                     # 主技能定义（含全部方法论+PPT+数据分析+安全+进化）
-└── README.md                    # 项目说明（中英双语）
-```
+**Q：能定制吗？**
+A：MIT-0 协议，随意 fork 修改。如果你也用 Marvis，可以参考训练自己的数字分身。
 
-## License
+## 协议
 
-MIT-0 — Free to use, modify, and distribute, no attribution required.
+MIT-0 — 自由使用、修改、分发，无需署名。
+
+## 作者
+
+前进 — 15 年商业运营实战，三次 0-1 项目搭建，最高年 GMV 近 6 亿。
 
 ---
 
