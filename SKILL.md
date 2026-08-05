@@ -12,7 +12,7 @@ license: MIT-0
 compatibility: 适用于 Claude Code、Cursor、WorkBuddy 等支持 Markdown Skill 的环境
 metadata:
   author: 前进
-  version: 1.1.0
+  version: 1.1.1
   language: zh-CN
   category: business-consulting
   tags: 商业战略, 电商运营, 品牌管理, 活动策划, 社交裂变, 大健康, 内容运营, 数据分析, PPT写作, 自媒体运营, 数据仪表盘, 波特五力, TAM/SAM/SOM, 商业模式画布, 情景规划, 商业论证, 金字塔原理, 一鱼多吃
