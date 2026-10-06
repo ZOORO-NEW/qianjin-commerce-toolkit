@@ -1,13 +1,19 @@
 ---
 slug: qianjin-commerce-toolkit
+version: 1.1.1
 displayName: 商业运营工具箱
-summary: "整合营销与电商运营实战方法论：覆盖商业战略/电商运营/品牌管理/活动策划/社交裂变/大健康/内容媒体/数据分析八大领域，含完整框架、模型与执行模板。"
+summary: 整合营销与电商运营实战方法论：覆盖商业战略/电商运营/品牌管理/活动策划/社交裂变/大健康/内容媒体/数据分析八大领域，含完整框架、模型与执行模板。
 name: commerce-strategy-toolkit
 category: 商业运营
-platforms: [workbuddy, claude-code, cursor, windsurf, codex]
+platforms:
+  - workbuddy
+  - claude-code
+  - cursor
+  - windsurf
+  - codex
 description: 整合营销与电商运营实战方法论：覆盖商业战略/电商运营/品牌管理/活动策划/社交裂变/大健康/内容媒体/数据分析八大领域，含完整框架、模型与执行模板。
-trigger: 商业计划书, 电商运营, 品牌管理, 活动策划, 社交裂变, 大健康, 内容运营, 数据分析, 营销策略, 商业战略, AARRR, 人货场, PPT写作, 自媒体运营, 数据仪表盘, 波特五力, 商业模式画布, 情景规划, 商业论证, 一鱼多吃, 标题公式,
-  SWOT, 4P, 定位理论
+trigger: 商业计划书, 电商运营, 品牌管理, 活动策划, 社交裂变, 大健康, 内容运营, 数据分析, 营销策略, 商业战略, AARRR, 人货场,
+  PPT写作, 自媒体运营, 数据仪表盘, 波特五力, 商业模式画布, 情景规划, 商业论证, 一鱼多吃, 标题公式, SWOT, 4P, 定位理论
 license: MIT-0
 compatibility: 适用于 Claude Code、Cursor、WorkBuddy 等支持 Markdown Skill 的环境
 metadata:
@@ -15,8 +21,8 @@ metadata:
   version: 1.1.1
   language: zh-CN
   category: business-consulting
-  tags: 商业战略, 电商运营, 品牌管理, 活动策划, 社交裂变, 大健康, 内容运营, 数据分析, PPT写作, 自媒体运营, 数据仪表盘, 波特五力, TAM/SAM/SOM, 商业模式画布, 情景规划, 商业论证, 金字塔原理, 一鱼多吃
-disable: false
+  tags: 商业战略, 电商运营, 品牌管理, 活动策划, 社交裂变, 大健康, 内容运营, 数据分析, PPT写作, 自媒体运营, 数据仪表盘, 波特五力,
+    TAM/SAM/SOM, 商业模式画布, 情景规划, 商业论证, 金字塔原理, 一鱼多吃
 ---
 
 # 商业运营实战方法论
